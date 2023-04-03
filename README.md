@@ -1,3 +1,4 @@
+=======
 <a name="readme-top"></a>
 
 # 📗 Table of Contents
@@ -128,3 +129,4 @@ I would like to thank Microverse community for giving me the guide to building t
 This project is [MIT](https://github.com/Otegaa/To-do-list/blob/main/LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+>>>>>>> b91aac52085f51433cd4eed083b97762af6b610e
